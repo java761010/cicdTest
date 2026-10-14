@@ -1,0 +1,10 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/.metadata/
+*.log
+*.tmp
+.env
+*.key
+*.pem
