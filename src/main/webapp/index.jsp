@@ -15,7 +15,7 @@
     <h1>Hello CI/CD</h1>
     <p>Java 21 / Maven / JSP / Jakarta Servlet / Jenkins</p>
     <p>Context Path: <code><%= request.getContextPath() %></code></p>
-    <a class="button" href="<%= request.getContextPath() %>/hello">Hello Servlet</a>
-    <a class="button" href="<%= request.getContextPath() %>/health">Health Check</a>
+    <a class="button" href="<%= request.getContextPath() %>/hello">Hello Servlet.</a>
+    <a class="button" href="<%= request.getContextPath() %>/health">Health Check.</a>
 </body>
 </html>
